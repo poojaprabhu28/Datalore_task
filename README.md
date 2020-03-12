@@ -1,2 +1,8 @@
-# Datalore_task
-Python program to download last 30 days data fro National Stock Exchange
+1. Install prerequistes to run:
+
+pip install -r requirements.txt
+
+2. Run main.py:
+
+python main.py
+
